@@ -1,0 +1,41 @@
+﻿@using Northwind.Store.Model
+@model Northwind.Store.Web.Internet.ViewModels.CartViewModel
+
+@if (Model != null && Model.Items.Any())
+{
+    <table class="table">
+        <thead>
+            <tr><th>Product</th><th>Price</th></tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model.Items)
+            {
+                <tr>
+                    <td>@p.ProductName</td>
+                    <td>@p.UnitPrice?.ToString("n")</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr><th>Items Count</th><td>@Model.Count</td></tr>
+            <tr><th>Items Total</th><td>@Model.Total.ToString("n")</td></tr>
+        </tfoot>
+    </table>
+
+    <div class="container">
+        <div class="row">
+            <div>
+                <a asp-action="Index" asp-controller="Product" class="btn btn-primary" style="background-color: dodgerblue; border-color: white">
+                    <i class="bi bi-shop"></i> Continue Shopping
+                </a>
+                <a asp-action="Checkout" asp-controller="Cart" class="btn btn-primary" style="background-color: hotpink; border-color: white">
+                    <i class="bi bi-bag-check"></i> Proceed Checkout
+                </a>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <h3>Your cart is empty! 😮</h3>
+}

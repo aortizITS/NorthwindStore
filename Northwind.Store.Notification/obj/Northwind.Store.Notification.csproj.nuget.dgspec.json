@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\NorthwindStore\\Northwind.Store.Notification\\Northwind.Store.Notification.csproj": {}
+  },
+  "projects": {
+    "C:\\NorthwindStore\\Northwind.Store.Notification\\Northwind.Store.Notification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NorthwindStore\\Northwind.Store.Notification\\Northwind.Store.Notification.csproj",
+        "projectName": "Northwind.Store.Notification",
+        "projectPath": "C:\\NorthwindStore\\Northwind.Store.Notification\\Northwind.Store.Notification.csproj",
+        "packagesPath": "C:\\Users\\AdrianOrtiz\\.nuget\\packages\\",
+        "outputPath": "C:\\NorthwindStore\\Northwind.Store.Notification\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AdrianOrtiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ddcnexus.ddcinternal.com/repository/nuget-rtg-platform-releases": {},
+          "http://ngpnexus.realtimegaming.com/repository/nuget-rtg-releases": {},
+          "http://ngpnexus.realtimegaming.com/repository/nuget-rtg-snapshots": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

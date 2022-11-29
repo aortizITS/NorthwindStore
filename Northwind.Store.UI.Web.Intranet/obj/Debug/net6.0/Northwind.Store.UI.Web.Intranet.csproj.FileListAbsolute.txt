@@ -1,0 +1,843 @@
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\appsettings.Development.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\appsettings.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.staticwebassets.runtime.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.exe
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.deps.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.runtimeconfig.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.pdb
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Humanizer.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Data.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Model.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Data.pdb
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Model.pdb
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.AssemblyReference.cache
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.AssemblyInfoInputs.cache
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.AssemblyInfo.cs
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.CoreCompileInputs.cache
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.RazorAssemblyInfo.cache
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.RazorAssemblyInfo.cs
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\bundle\Northwind.Store.UI.Web.Intranet.styles.css
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\projectbundle\Northwind.Store.UI.Web.Intranet.bundle.scp.css
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.CopyComplete
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\refint\Northwind.Store.UI.Web.Intranet.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.pdb
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.genruntimeconfig.cache
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\ref\Northwind.Store.UI.Web.Intranet.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\MessagePack.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Common.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\bundleconfig.json
+C:\Git\cenfotec\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\libman.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\bundleconfig.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\libman.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\appsettings.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.staticwebassets.runtime.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.exe
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.deps.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.runtimeconfig.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.pdb
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Humanizer.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\MessagePack.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Data.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Model.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Data.pdb
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Model.pdb
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.AssemblyReference.cache
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.AssemblyInfoInputs.cache
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.AssemblyInfo.cs
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.CoreCompileInputs.cache
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.RazorAssemblyInfo.cache
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.RazorAssemblyInfo.cs
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\bundle\Northwind.Store.UI.Web.Intranet.styles.css
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\projectbundle\Northwind.Store.UI.Web.Intranet.bundle.scp.css
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.CopyComplete
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\refint\Northwind.Store.UI.Web.Intranet.dll
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.pdb
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.genruntimeconfig.cache
+C:\Users\AdrianOrtiz\OneDrive - Information Technology Support, Limitada\Documents\Adrian Documentos\Curso ASP\Pistachon\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\ref\Northwind.Store.UI.Web.Intranet.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.AssemblyReference.cache
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.GeneratedMSBuildEditorConfig.editorconfig
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.AssemblyInfoInputs.cache
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.AssemblyInfo.cs
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.CoreCompileInputs.cache
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.MvcApplicationPartsAssemblyInfo.cs
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.MvcApplicationPartsAssemblyInfo.cache
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.RazorAssemblyInfo.cache
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.RazorAssemblyInfo.cs
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\appsettings.Development.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\appsettings.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\bundleconfig.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\libman.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.staticwebassets.runtime.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.exe
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.deps.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.runtimeconfig.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.UI.Web.Intranet.pdb
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Humanizer.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\MessagePack.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Build.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Common.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Text.Json.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Data.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Model.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Notification.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Data.pdb
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Model.pdb
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\bin\Debug\net6.0\Northwind.Store.Notification.pdb
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\staticwebassets.build.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\staticwebassets.development.json
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\bundle\Northwind.Store.UI.Web.Intranet.styles.css
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\scopedcss\projectbundle\Northwind.Store.UI.Web.Intranet.bundle.scp.css
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.csproj.CopyComplete
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\refint\Northwind.Store.UI.Web.Intranet.dll
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.pdb
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\Northwind.Store.UI.Web.Intranet.genruntimeconfig.cache
+C:\NorthwindStore\Northwind.Store.UI.Web.Intranet\obj\Debug\net6.0\ref\Northwind.Store.UI.Web.Intranet.dll

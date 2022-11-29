@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "AfD506WHFRHPTiFPKynzk6EQp1Ay8VeP9pIc7w3NMs2aGEVPIIuQ0ldzZhiZ7TnG4EeQmsYQP0GgXvIncS1uOA==",
+  "success": true,
+  "projectFilePath": "C:\\NorthwindStore\\Northwind.Store.Notification\\Northwind.Store.Notification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdrianOrtiz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianOrtiz\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianOrtiz\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ddcnexus.ddcinternal.com/repository/nuget-rtg-platform-releases'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ngpnexus.realtimegaming.com/repository/nuget-rtg-snapshots'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ngpnexus.realtimegaming.com/repository/nuget-rtg-releases'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

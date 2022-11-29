@@ -1,0 +1,12 @@
+C:\NorthwindStore\Northwind.Store.Notification\bin\Debug\net6.0\Northwind.Store.Notification.deps.json
+C:\NorthwindStore\Northwind.Store.Notification\bin\Debug\net6.0\Northwind.Store.Notification.dll
+C:\NorthwindStore\Northwind.Store.Notification\bin\Debug\net6.0\Northwind.Store.Notification.pdb
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\Northwind.Store.Notification.csproj.AssemblyReference.cache
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\Northwind.Store.Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\Northwind.Store.Notification.AssemblyInfoInputs.cache
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\Northwind.Store.Notification.AssemblyInfo.cs
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\Northwind.Store.Notification.csproj.CoreCompileInputs.cache
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\Northwind.Store.Notification.dll
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\refint\Northwind.Store.Notification.dll
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\Northwind.Store.Notification.pdb
+C:\NorthwindStore\Northwind.Store.Notification\obj\Debug\net6.0\ref\Northwind.Store.Notification.dll

@@ -1,0 +1,78 @@
+@using Northwind.Store.Model
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index" asp-controller="Order" method="post">
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <th>Order Id</th>
+            <th>Customer Id</th>
+            <th>Employee Id</th>
+            <th>Order Date</th>
+            <th>Required Date</th>
+            <th>Shipped Date</th>
+            <th>Ship Via</th>
+            <th>Freight</th>
+            <th>Ship Name</th>
+            <th>Ship Address</th>
+            <th>Ship City</th>
+            <th>Ship Region</th>
+            <th>Ship Postal Code</th>
+            <th>Ship Country</th>
+        </tr>
+        @foreach (Order item in Model.Orders)
+        {
+            <tr>
+                <td>@item.OrderId</td>
+                <td>@item.CustomerId</td>
+                <td>@item.EmployeeId</td>
+                <td>@item.OrderDate</td>
+                <td>@item.RequiredDate</td>
+                <td>@item.ShippedDate</td>
+                <td>@item.ShipVia</td>
+                <td>@item.Freight</td>
+                <td>@item.ShipName</td>
+                <td>@item.ShipAddress</td>
+                <td>@item.ShipCity</td>
+                <td>@item.ShipRegion</td>
+                <td>@item.ShipPostalCode</td>
+                <td>@item.ShipCountry</td>
+            </tr>
+        }
+    </table>
+    <br />
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            @for (int i = 1; i <= Model.PageCount; i++)
+            {
+                if (i == 1)
+                {
+                    <li class="page-item"><a class="page-link" href="javascript:PagerClick(@i);">Primero</a></li>
+                }
+                else if (i == Model.PageCount)
+                {
+                    <li class="page-item"><a class="page-link" href="javascript:PagerClick(@i);">Ultimo</a></li>
+                }
+                else
+                {
+                    <li class="page-item"><a class="page-link" href="javascript:PagerClick(@i);">@i</a></li>
+                }
+            }
+        </ul>
+    </nav>
+    <input type="hidden" id="hfCurrentPageIndex" name="currentPageIndex" />
+</form>
+
+<script type="text/javascript">
+    function PagerClick(index) {
+        document.getElementById("hfCurrentPageIndex").value = index;
+        document.forms[0].submit();
+    }
+</script>

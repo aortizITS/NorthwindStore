@@ -1,0 +1,14 @@
+C:\NorthwindStore\Northwind.Store.Model\bin\Debug\net6.0\Northwind.Store.Model.deps.json
+C:\NorthwindStore\Northwind.Store.Model\bin\Debug\net6.0\Northwind.Store.Model.runtimeconfig.json
+C:\NorthwindStore\Northwind.Store.Model\bin\Debug\net6.0\Northwind.Store.Model.dll
+C:\NorthwindStore\Northwind.Store.Model\bin\Debug\net6.0\Northwind.Store.Model.pdb
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.csproj.AssemblyReference.cache
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.AssemblyInfoInputs.cache
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.AssemblyInfo.cs
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.csproj.CoreCompileInputs.cache
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.dll
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\refint\Northwind.Store.Model.dll
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.pdb
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\Northwind.Store.Model.genruntimeconfig.cache
+C:\NorthwindStore\Northwind.Store.Model\obj\Debug\net6.0\ref\Northwind.Store.Model.dll

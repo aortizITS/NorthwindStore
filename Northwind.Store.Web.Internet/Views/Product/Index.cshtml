@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Northwind.Store.Model.Product>
+
+@{
+    ViewData["Title"] = "Product";
+
+    Pager pager = new Pager();
+
+    int pageNo = 0;
+
+    if (ViewBag.Pager != null) {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
+
+}
+
+<h1>Products</h1>
+
+<form asp-controller="Product" asp-action="Index" method="get">
+    <p>
+        Product: <input type="text" name="SearchString" />
+        <input type="submit" value="Search" />
+    </p>
+</form>
+
+@if (Model.Count() > 0)
+{
+    <table class="table table-bordered table-striped" style="width=100%">
+    <thead>
+        <tr>
+                <th>Product Name</th>
+                <th>Category Name</th>
+                <th>Unit Price</th>
+                <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td width="25%">
+                        @p.ProductName
+                    </td>
+                    <td width="25%">
+                        @p.Category?.CategoryName
+                    </td>
+                    <td width="25%">
+                        @p.UnitPrice?.ToString("n")
+                    </td>
+                    <td width ="25%">
+                             <a asp-action="Add" asp-controller="Cart" asp-route-id="@p.ProductId"
+                   class="btn btn-primary">
+                                <i class="bi bi-cart-plus"></i> Add Product
+                            </a>
+                    </td>
+                </tr>
+            }
+    </tbody>
+    </table>
+
+    <div class="container">
+        @if (pager.TotalPages > 0) {
+            <ul class="pagination justify-content-end">
+
+                @*@if (pager.CurrentPage > 1) { 
+                    <li class="page-item">
+                        <a class="page-link" asp-controller="Product" asp-action="Index" asp-route-pg="1">First</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" asp-controller="Product" asp-action="Index" asp-route-pg="@(pager.CurrentPage - 1)">Previous</a>
+                    </li>
+                }*@
+
+                @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++){
+                    <li class="page-item @(pge == pager.CurrentPage ? "active": "")">
+                        <a class="page-link" asp-controller="Product" asp-action="Index" asp-route-pg="@pge">@pge</a>
+                    </li>
+                }
+
+                @if (pager.CurrentPage < pager.TotalPages) { 
+                    <li class="page-item">
+                        <a class="page-link" asp-controller="Product" asp-action="Index" asp-route-pg="@(pager.CurrentPage + 1)">Next</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" asp-controller="Product" asp-action="Index" asp-route-pg="@(pager.TotalPages)">Last</a>
+                    </li>
+                }
+            </ul>
+        }
+    </div>
+}

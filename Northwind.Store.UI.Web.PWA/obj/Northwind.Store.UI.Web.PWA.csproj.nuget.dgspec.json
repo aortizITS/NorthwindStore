@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AdrianOrtiz\\OneDrive - Information Technology Support, Limitada\\Documents\\Adrian Documentos\\Curso ASP\\10-25-2022\\aspnet202208\\proyecto\\NorthwindStore\\Northwind.Store.UI.Web.PWA\\Northwind.Store.UI.Web.PWA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AdrianOrtiz\\OneDrive - Information Technology Support, Limitada\\Documents\\Adrian Documentos\\Curso ASP\\10-25-2022\\aspnet202208\\proyecto\\NorthwindStore\\Northwind.Store.UI.Web.PWA\\Northwind.Store.UI.Web.PWA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AdrianOrtiz\\OneDrive - Information Technology Support, Limitada\\Documents\\Adrian Documentos\\Curso ASP\\10-25-2022\\aspnet202208\\proyecto\\NorthwindStore\\Northwind.Store.UI.Web.PWA\\Northwind.Store.UI.Web.PWA.csproj",
+        "projectName": "Northwind.Store.UI.Web.PWA",
+        "projectPath": "C:\\Users\\AdrianOrtiz\\OneDrive - Information Technology Support, Limitada\\Documents\\Adrian Documentos\\Curso ASP\\10-25-2022\\aspnet202208\\proyecto\\NorthwindStore\\Northwind.Store.UI.Web.PWA\\Northwind.Store.UI.Web.PWA.csproj",
+        "packagesPath": "C:\\Users\\AdrianOrtiz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AdrianOrtiz\\OneDrive - Information Technology Support, Limitada\\Documents\\Adrian Documentos\\Curso ASP\\10-25-2022\\aspnet202208\\proyecto\\NorthwindStore\\Northwind.Store.UI.Web.PWA\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AdrianOrtiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ddcnexus.ddcinternal.com/repository/nuget-rtg-platform-releases": {},
+          "http://ngpnexus.realtimegaming.com/repository/nuget-rtg-releases": {},
+          "http://ngpnexus.realtimegaming.com/repository/nuget-rtg-snapshots": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
